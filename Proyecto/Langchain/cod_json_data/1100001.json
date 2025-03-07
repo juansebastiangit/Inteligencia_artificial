@@ -1,0 +1,22 @@
+{
+    "chemical_formula": "Pt",
+    "space_group": "Fm-3m",
+    "lattice_parameters": {
+        "a": "3.9195998(4)",
+        "b": "3.9195998(4)",
+        "c": "3.9195998(4)",
+        "alpha": "90.0",
+        "beta": "90.0",
+        "gamma": "90.0"
+    },
+    "atomic_sites": [
+        {
+            "element": "Pt",
+            "x": "0.0",
+            "y": "0.0",
+            "z": "0.0",
+            "occupancy": "1.0"
+        }
+    ],
+    "symmetry_operations": []
+}

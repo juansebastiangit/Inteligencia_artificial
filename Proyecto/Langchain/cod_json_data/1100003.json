@@ -1,0 +1,35 @@
+{
+    "chemical_formula": "C",
+    "space_group": "R -3 m :R",
+    "lattice_parameters": {
+        "a": "3.635",
+        "b": "3.635",
+        "c": "3.635",
+        "alpha": "39.49",
+        "beta": "39.49",
+        "gamma": "39.49"
+    },
+    "atomic_sites": [
+        {
+            "element": "C1",
+            "x": "0.164",
+            "y": "0.164",
+            "z": "0.164",
+            "occupancy": "1."
+        }
+    ],
+    "symmetry_operations": [
+        "x,y,z",
+        "y,x,z",
+        "y,z,x",
+        "x,z,y",
+        "z,x,y",
+        "z,y,x",
+        "-x,-y,-z",
+        "-y,-x,-z",
+        "-y,-z,-x",
+        "-x,-z,-y",
+        "-z,-x,-y",
+        "-z,-y,-x"
+    ]
+}
