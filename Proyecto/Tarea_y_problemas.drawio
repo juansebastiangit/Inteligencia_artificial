@@ -179,7 +179,7 @@
         <mxCell id="2HfBth0QuCswgmTx4P1P-153" value="Muy elevado costo &#xa;computacional.&#xa;Escalabilidad reducida." style="rounded=1;fillColor=#E6E6E6;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="122.5" y="730" width="212" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2HfBth0QuCswgmTx4P1P-155" value="Requiere modelos precisos de &#xa;las interacciónes.&#xa;Es menos preciso que DFT" style="rounded=1;fillColor=#E6E6E6;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="2HfBth0QuCswgmTx4P1P-155" value="Requiere modelados precisos&#xa; de las interacciónes.&#xa;Es menos preciso que DFT" style="rounded=1;fillColor=#E6E6E6;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="746" y="730" width="212" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2HfBth0QuCswgmTx4P1P-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF3333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkoF7Wxlfh1pSwPbDBop-144" target="2HfBth0QuCswgmTx4P1P-158">
@@ -200,7 +200,26 @@
         <mxCell id="2HfBth0QuCswgmTx4P1P-160" value="Sobre simplifica sin &#xa;considerar la interacción &#xa;a nivel molecular" style="rounded=1;fillColor=#E6E6E6;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1370" y="730" width="212" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2HfBth0QuCswgmTx4P1P-161" value="" style="rounded=1;fillColor=light-dark(#e7ede7, #272727);gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="2HfBth0QuCswgmTx4P1P-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2HfBth0QuCswgmTx4P1P-161" target="kkoF7Wxlfh1pSwPbDBop-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="820" />
+              <mxPoint x="840" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HfBth0QuCswgmTx4P1P-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF3333;" edge="1" parent="1" source="2HfBth0QuCswgmTx4P1P-161" target="kkoF7Wxlfh1pSwPbDBop-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HfBth0QuCswgmTx4P1P-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;strokeColor=#FF3333;" edge="1" parent="1" source="2HfBth0QuCswgmTx4P1P-161" target="kkoF7Wxlfh1pSwPbDBop-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="820" />
+              <mxPoint x="235" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2HfBth0QuCswgmTx4P1P-161" value="Permite buscar un balance &#xa;entre precision y costo." style="rounded=1;fillColor=light-dark(#e7ede7, #272727);gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="435" y="730" width="212" height="80" as="geometry" />
         </mxCell>
       </root>
