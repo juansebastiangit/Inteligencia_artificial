@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.1">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1672" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1672" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,10 +18,8 @@
         <mxCell id="123" value="" style="fillColor=#66B2FF;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="662" y="315" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-147" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="kkoF7Wxlfh1pSwPbDBop-141">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="851" y="460" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="2HfBth0QuCswgmTx4P1P-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="kkoF7Wxlfh1pSwPbDBop-141">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Tarea&#xa;Simulación de potenciales agentes adsorbentes" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="670.5" y="325" width="363" height="80" as="geometry" />
@@ -70,34 +68,37 @@
         <mxCell id="YSYdugj3KYckRIGo-gET-129" value="Adsorción" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="887" y="180" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-138" value="" style="fillColor=#66B2FF;strokeColor=#b85450;opacity=30;" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-138" value="" style="fillColor=#66B2FF;strokeColor=#b85450;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="117" y="486" width="1470" height="99.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-139" value="Modelos Continuos" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-139" value="Modelos Continuos" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1390" y="496" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-140" value="Dinamica Molecular" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-140" value="Dinamica Molecular" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="767" y="496" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-141" value="Aprendizaje de Maquina" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="2HfBth0QuCswgmTx4P1P-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkoF7Wxlfh1pSwPbDBop-141" target="kkoF7Wxlfh1pSwPbDBop-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-141" value="Aprendizaje de Maquina" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="455" y="496" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-142" value="Teoria del funcional densidad&#xa;DFT" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-142" value="Teoria del funcional densidad&#xa;DFT" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="127" y="496" width="223" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-144" value="Monte Carlo" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-144" value="Monte Carlo" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1078" y="496" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-148" value="" style="fillColor=#66B2FF;strokeColor=#b85450;opacity=30;" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-148" value="" style="fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="117" y="640" width="243" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-150" value="RIUS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-150" value="RIUS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="127" y="890" width="223" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-151" value="Deep Learning" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-151" value="Deep Learning" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="127" y="770" width="223" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-152" value="ML Clasico" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-152" value="ML Clasico" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="127" y="650" width="223" height="80" as="geometry" />
         </mxCell>
       </root>
