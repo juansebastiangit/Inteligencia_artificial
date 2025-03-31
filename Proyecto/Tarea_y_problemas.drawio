@@ -177,7 +177,7 @@
         <mxCell id="2HfBth0QuCswgmTx4P1P-149" value="Demoran demasiado los efectos.&#xa;Requiere condiciones ambientales &#xa;muy estrictas." style="rounded=1;fillColor=#E6E6E6;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1379" y="300" width="212" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2HfBth0QuCswgmTx4P1P-151" value="Sintetizar materiales es costoso y consume mucho tiempo, al igual que realizar&#xa;las pruebas y mediciones en entornos reales.&#xa;Simular permite reducir las opciones y hacerse una idea del funcionamiento real&#xa;de los materiales" style="rounded=1;fillColor=#D4E1F5;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="2HfBth0QuCswgmTx4P1P-151" value="Sintetizar materiales es costoso y consume mucho tiempo, al igual que realizar&#xa;las pruebas y mediciones en entornos reales.&#xa;Simular permite reducir las opciones y hacerse una idea del comportamiento&#xa;de los materiales." style="rounded=1;fillColor=#D4E1F5;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="590" height="95" as="geometry" />
         </mxCell>
         <mxCell id="2HfBth0QuCswgmTx4P1P-152" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2HfBth0QuCswgmTx4P1P-151" target="2">
