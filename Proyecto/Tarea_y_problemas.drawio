@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.1">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1672" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,8 +140,16 @@
         <mxCell id="kkoF7Wxlfh1pSwPbDBop-150" value="RIUS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="728.5" y="874" width="223" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2HfBth0QuCswgmTx4P1P-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkoF7Wxlfh1pSwPbDBop-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="538.0000000000002" y="1009.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kkoF7Wxlfh1pSwPbDBop-151" value="Deep Learning" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="430" y="874" width="223" height="80" as="geometry" />
+          <mxGeometry x="426" y="874" width="223" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2HfBth0QuCswgmTx4P1P-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kkoF7Wxlfh1pSwPbDBop-152" target="2HfBth0QuCswgmTx4P1P-168">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kkoF7Wxlfh1pSwPbDBop-152" value="ML Clasico" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="123.5" y="874" width="223" height="80" as="geometry" />
@@ -221,6 +229,12 @@
         </mxCell>
         <mxCell id="2HfBth0QuCswgmTx4P1P-161" value="Permite buscar un balance &#xa;entre precision y costo." style="rounded=1;fillColor=light-dark(#e7ede7, #272727);gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="435" y="730" width="212" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2HfBth0QuCswgmTx4P1P-168" value="Requieren muchos&#xa;datos y no toman en&#xa;cuenta las interacciónes&#xa;físicas. " style="rounded=1;fillColor=#E6E6E6;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1010" width="212" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2HfBth0QuCswgmTx4P1P-174" value="Requieren muchos&#xa;datos y no toman en&#xa;cuenta las interacciónes&#xa;físicas. " style="rounded=1;fillColor=#E6E6E6;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=1;fontFamily=Tahoma;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="431.5" y="1010" width="212" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
