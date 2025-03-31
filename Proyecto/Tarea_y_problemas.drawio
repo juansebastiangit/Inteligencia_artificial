@@ -89,22 +89,16 @@
           <mxGeometry x="1078" y="496" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kkoF7Wxlfh1pSwPbDBop-148" value="" style="fillColor=#66B2FF;strokeColor=#b85450;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="117" y="640" width="1470" height="99.99999999999994" as="geometry" />
+          <mxGeometry x="117" y="640" width="243" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-149" value="" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="1390" y="650" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-150" value="" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="767" y="650" width="190" height="80" as="geometry" />
+        <mxCell id="kkoF7Wxlfh1pSwPbDBop-150" value="RIUS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="127" y="890" width="223" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kkoF7Wxlfh1pSwPbDBop-151" value="Deep Learning" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="455" y="650" width="190" height="80" as="geometry" />
+          <mxGeometry x="127" y="770" width="223" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kkoF7Wxlfh1pSwPbDBop-152" value="ML Clasico" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="127" y="650" width="223" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kkoF7Wxlfh1pSwPbDBop-153" value="" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="1078" y="650" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
