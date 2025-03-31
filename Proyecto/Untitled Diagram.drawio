@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.1.1">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2047" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QZGOL6vBilMxNhvhKTBY-125" value="" style="fillColor=#AE4132;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="752" y="30" width="200" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="123" value="" style="fillColor=#AE4132;strokeColor=none;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="747" y="175.50000000000003" width="210" height="99.99999999999994" as="geometry" />
+          <mxGeometry x="662" y="175.5" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="122" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="97" y="325.5" width="1470" height="99.99999999999994" as="geometry" />
@@ -52,8 +55,8 @@
         <mxCell id="108" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="47.000000000000014" y="445.5" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="Tarea" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="757" y="185.5" width="190" height="80" as="geometry" />
+        <mxCell id="2" value="Tarea&#xa;Simulación de potenciales agentes adsorbentes" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="670.5" y="185.5" width="363" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Training Department" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1361.9999999999998" y="335.5" width="190" height="80" as="geometry" />
@@ -553,7 +556,7 @@
         <mxCell id="QZGOL6vBilMxNhvhKTBY-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZGOL6vBilMxNhvhKTBY-123" target="123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QZGOL6vBilMxNhvhKTBY-123" value="Motivacion &#xa;Problema Global" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="QZGOL6vBilMxNhvhKTBY-123" value="Motivacion &#xa;Problema Global&#xa;Purificación de agua" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="756.9999999999998" y="40" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
