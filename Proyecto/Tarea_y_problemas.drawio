@@ -599,6 +599,9 @@
         <mxCell id="YSYdugj3KYckRIGo-gET-128" value="Bio remediación" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1390" y="180" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YSYdugj3KYckRIGo-gET-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSYdugj3KYckRIGo-gET-129" target="2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSYdugj3KYckRIGo-gET-129" value="Adsorción" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="887" y="180" width="190" height="80" as="geometry" />
         </mxCell>
