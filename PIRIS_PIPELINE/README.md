@@ -82,7 +82,7 @@ This project is designed to be run in a Kaggle Notebook environment.
     -   **Copy the generated token immediately.** You will not be able to see it again.
 
 3.  **Set up Kaggle Secrets:**
-    -   Create a new Kaggle Notebook and upload the `piris-bo.ipynb` file from this repository (**File -> Upload notebook**).
+    -   Create a new Kaggle Notebook and upload the `PIRIS.ipynb` file from this repository (**File -> Upload notebook**).
     -   In the notebook editor, go to the **Add-ons -> Secrets** menu.
     -   Click **"Add a new secret"**.
     -   Enter `GITHUB_PAT` as the label (the key).
