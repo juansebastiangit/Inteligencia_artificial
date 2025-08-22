@@ -125,7 +125,7 @@ As long as the data contract from Step 1 is met, the rest of the optimization an
 ## Expected Output
 
 After a successful run, a new directory will be created in your GitHub repository with a path similar to:
-`PIRIS_PIPELINE/images_YYYY-MM-DD_HH-MM-SS/`
+`PIRIS_PIPELINE/Results_from_YYYY-MM-DD_HH-MM-SS_run`
 
 This directory will contain all the generated plots from the simulation runs in PDF format, such as:
 -   `Parameter_importance_[sample_name].pdf`
