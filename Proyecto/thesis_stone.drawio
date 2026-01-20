@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 OPR/125.0.0.0" version="28.2.5">
   <diagram name="Page-1" id="1h2EGzR4Rk4tF-PGqyw4">
-    <mxGraphModel>
+    <mxGraphModel dx="1240" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-1" target="yjbMBBfTo0yqpGjJa4Lt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-1" target="yjbMBBfTo0yqpGjJa4Lt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-1" target="yjbMBBfTo0yqpGjJa4Lt-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-1" value="Problemas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-2" target="yjbMBBfTo0yqpGjJa4Lt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-2" value="Interpretabilidad/fundamento fisico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-4" value="Añadir el hamiltoniano, por muy sencillo que sea, le da base física real al proceso de calcular/predecir la energía del sistema." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-6" target="yjbMBBfTo0yqpGjJa4Lt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-6" value="Estabilidad/escalabildiad" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="240" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-8" value="Estrategias como optuna, kmeans++ y k neighbors ayudan a mejorar la estabilidad de los resultados ante variaciones de forma, estructura y tamaño. No son perfectas y el sistema no es 100% a prueba de cambios, pero estas estrategias ayudan a mejorar el rendimiento ante ciertos grados de cambio, manteniendo resultados estables." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="247" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-10" target="yjbMBBfTo0yqpGjJa4Lt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-10" value="Herramientas/ barrera de conocimeinto" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-12" value="La idea del agente RAG es facilitar el uso del software de simulación. Recortando brechas para el personal menos tecnico, a la vez que da acceso directo a la base de datos con informacón de los materiales." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="455" width="245" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-15" target="yjbMBBfTo0yqpGjJa4Lt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-15" value="Función de costo basada en físcia" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-18" target="yjbMBBfTo0yqpGjJa4Lt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-18" value="Estrategias de exploración y estabilización de resultados" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326.75" y="350" width="153.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yjbMBBfTo0yqpGjJa4Lt-21" target="yjbMBBfTo0yqpGjJa4Lt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjbMBBfTo0yqpGjJa4Lt-21" value="IA generativa como facilitador de uso" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
