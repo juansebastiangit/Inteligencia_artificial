@@ -1,0 +1,8 @@
+mp-api==0.46.0
+pymatgen==2025.10.7
+emmet-core==0.86.3
+pydantic==2.12.3
+langchain==0.2.16
+langchain-experimental==0.0.64
+langchain-google-genai==1.0.10
+google-generativeai==0.7.2
