@@ -6,10 +6,11 @@ The entire simulation pipeline—from sample generation to final analysis—is a
 
 ## Key Features
 
--   **Modular Sample Generation:** Functions to procedurally generate three distinct atomic structures:
+-   **Modular Sample Generation:** Functions to procedurally generate four distinct atomic structures:
     1.  A 2D graphene-like ZnO sheet.
     2.  A 3D spherical Aluminum (Al) nanoparticle with an FCC lattice.
     3.  A 3D armchair ZnO nanotube.
+    4.  A 3D spherical TiO2 nanoparticle with an anatasa phase.
 -   **Bayesian Hyperparameter Tuning:** Utilizes Optuna with a Gaussian Process sampler to intelligently search for the optimal set of hyperparameters, including PRI regularization weights, learning rate, and initial ion distance.
 -   **TensorFlow-Powered Simulation:** The core energy calculations and gradient-based optimization are implemented in TensorFlow for high performance, especially on GPU accelerators.
 -   **Automated Visualization:** Automatically generates and saves key plots for analysis:
